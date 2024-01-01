@@ -1,4 +1,4 @@
-# CPP-Modules 00-04
+### CPP-Modules 00-04
 
 <p align="center">
   <img src="https://github.com/AndersLazis/AndersLazis/blob/main/assets/badges/cppm.png" alt="CPP0-04 42 project badge"/>
@@ -21,42 +21,41 @@ git clone git@github.com:mcombeau/minishell.git
 To compile:
 
 ```shell
-cd minishell && make
+cd ex0_ && make
 ```
 
 To run the program:
 
 ```shell
-./minishell
+./<program_name>
 ```
 
-A prompt will appear. You may enter your commands to be executed.
 
-# C++ 00 to C++ 09 Modules
+### C++ 00 to C++ 09 Modules
 
 </div>
 
-## [C++ 00](https://github.com/AndersLazis/CPP_Modules_00-04/tree/main/CPP_00)
+### [C++ 00](https://github.com/AndersLazis/CPP_Modules_00-04/tree/main/CPP_00)
 
 Introduction to C++ (Namespaces, Classes, Member Functions, Stdio Streams, Initalization Lists, Static and Const
 
-## [C++ 01](https://github.com/AndersLazis/CPP_Modules_00-04/tree/main/CPP_01)
+### [C++ 01](https://github.com/AndersLazis/CPP_Modules_00-04/tree/main/CPP_01)
 
 Memory Allocation, Pointers To Members, References and Switch Statement
 
-## [C++ 02](https://github.com/AndersLazis/CPP_Modules_00-04/tree/main/CPP_02)
+### [C++ 02](https://github.com/AndersLazis/CPP_Modules_00-04/tree/main/CPP_02)
 
 Ad-Hoc Polymorphism, Operator Overloading and Orthodox Canonical Class Form
 
-## [C++ 03](https://github.com/AndersLazis/CPP_Modules_00-04/tree/main/CPP_03)
+### [C++ 03](https://github.com/AndersLazis/CPP_Modules_00-04/tree/main/CPP_03)
 
 Inheritance
 
-## [C++ 04](https://github.com/AndersLazis/CPP_Modules_00-04/tree/main/CPP_04)
+### [C++ 04](https://github.com/AndersLazis/CPP_Modules_00-04/tree/main/CPP_04)
 
 Subtype Polymorphism, Abstract Classes and Interfaces
 
-## [C++ 05](https://github.com/AndersLazis/CPP_Modules_00-04/tree/main/CPP_05)
+### [C++ 05](https://github.com/AndersLazis/CPP_Modules_00-04/tree/main/CPP_05)
 
 Repetition and Exceptions
 
