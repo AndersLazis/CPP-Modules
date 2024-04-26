@@ -8,7 +8,7 @@ A collection of modules that make up 42 school's C++ piscine. The modules gradua
 
 ## Status
 
-Validated 4 Aug 2023. Grade: 100%.
+Validated 01 Nov 2023. Grade: 100%.
 
 ## Usage
 
@@ -54,10 +54,6 @@ Inheritance
 ### [C++ 04](https://github.com/AndersLazis/CPP_Modules_00-04/tree/main/CPP_04) Status: validated 01 Nov 2023
 
 Subtype Polymorphism, Abstract Classes and Interfaces
-
-### [C++ 05](https://github.com/AndersLazis/CPP_Modules_00-04/tree/main/CPP_05) Status: In Progress
-
-Repetition and Exceptions
 
 <br>
 
